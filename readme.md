@@ -1,4 +1,4 @@
-# Optimization Algorithms: Hollow Knight Route Optimization
+# Hollow Knight Route Optimization
 
 ## Project Overview
 This project focuses on designing a Genetic Algorithm (GA) to optimize routes in the video game *Hollow Knight*, maximizing in-game currency (Geo) collection while minimizing risks of loss. The solution adheres to game-specific constraints and utilizes advanced genetic operators to ensure optimal performance and robust results.
